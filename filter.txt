@@ -1,2 +1,2 @@
-||www.chess.com/
-||lichess.org/
+||www.chess.com^
+||lichess.org^
